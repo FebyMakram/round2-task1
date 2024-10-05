@@ -1,0 +1,242 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+.enterDesgin .title{
+    width: 933px;
+    height: 161px;
+    font-size: 90px;
+    font-weight: 500;
+    line-height: 160.96px;
+    
+}
+.enterDesgin p{
+    width: 759px;
+    height: 168px;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+.enterDesgin .pic1 .img{
+    width: 450px;
+    height: 50vh;
+    border-radius: 4px 0px 0px 0px;
+    
+}
+.enterDesgin .pic2 .img1{
+    width: 450px;
+    height: 50vh;
+    border-radius: 4px 0px 0px 0px;
+    margin-left: -200px;
+    
+}
+.enterDesgin .nums h2{
+    font-size: 60px;
+    font-weight: 400;
+    text-align: left;
+
+}
+.enterDesgin .nums span{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+/* scroll button */
+.scrollDown{
+    position: fixed;
+    right: 0;
+    top: 300px;
+    padding: 20px;
+}
+/* scroll button */
+/* .scrollTop{
+    position: fixed;
+    left: 0;
+    top: 300px;
+    padding: 20px;
+} */
+
+
+/* our services */
+.servises h2{
+    width: 362px;
+    height: 70px;
+    left: 134px;
+    font-size: 58px;
+    font-weight: 600;
+    line-height: 70.19px;
+    text-align: left;
+    
+}
+.servises span{
+    width: 20px;
+    height: 5px;
+    background-color: black;
+    color: black;
+}
+.servises p{
+    color: #545454;
+        font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    
+}
+.servises h3{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    color: #1F1F1F;
+
+}
+
+/* done */
+
+/* designing */
+
+
+.designing img{
+    width: 105%;
+    height: 75vh;
+    border-radius: 4px 0px 0px 0px;
+
+}
+.designing h2{
+    width: 704px;
+    height: 140px;
+    font-size: 58px;
+    font-weight: 600;
+    line-height: 65px;
+}
+.designing p{
+    width: 722px;
+    height: 120px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 39.65px;
+}
+.designing  button{
+    width:30%;
+    height: 8vh;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+   
+}
+
+/* done */
+
+/* start steps */
+
+.steps i{ 
+    /* background-color: black; */
+    background-color: rgb(226, 236, 236);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+    top: 30%;
+    left: 5px;
+    
+}
+/* .steps .round {
+    position: relative;
+    top: 10px;
+    left: -5px;
+} */
+.steps img{
+    width: 140%;
+    height: 105vh;
+   
+}
+
+
+/* end steps */
+
+/* start opinions */
+.opinions img{
+    width: 130%;
+    height: 70vh;
+   
+}
+.opinions button{
+    width: 15%;
+    height:7vh;
+    border-radius: 4px 0px 0px 0px;
+    background-color: #F1F1F1;
+
+}
+.opinions h2{
+    width: 704px;
+    height: 140px;
+    font-size: 58px;
+    font-weight: 600;
+    margin-left:35%;
+        
+}
+.sections{
+    margin-left: -40%;
+   
+}
+.sections .sec{
+    width: 48%;
+    height: 60vh;
+    border-radius: 4px 0px 0px 0px;
+    border: 10px solid white;
+     
+}
+.sections h5{
+    color: #929292; 
+}
+.sections img{
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    
+}
+
+/* end opinions */
+
+/* start subscribe */
+.subscribe{
+    width: 979px;
+    height: 490px;
+    text-align: center;
+    
+}
+.subscribe h2{
+    width: 849px;
+    height: 140px;
+    left: 65px;
+    /* font-size: 58px; */
+    font-weight: 600;
+    /* line-height: 70.19px; */
+    text-align: center;
+    
+}
+.subscribe input{
+    /* width: 40%; */
+    height: 9vh;
+    /* font-size: 24px; */
+    font-weight: 500;
+    box-shadow: -3px -3px 3px 3px gray;
+    cursor: pointer;
+    font-family: "FontAwesome";
+}
+
+.subscribe button{
+     margin-left: -180px;
+    width: 120px;
+    height: 7vh;
+
+}
+/* end subscibe */
+
+/* start footer */
+footer{
+    width: 100%;
+    margin-top: -17%;
+}
